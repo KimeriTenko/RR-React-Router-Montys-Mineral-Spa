@@ -8,7 +8,13 @@ import Packages from './components/Packages'
 
 function App() {
 
-  const packages = ['Activate your Crystals', 'Monkey Meditation', 'Soak in the Hotsprings', 'Hypnotherapy', 'Mineral Bath']
+  const packages = [
+    'Activate your Crystals', 
+    'Monkey Meditation', 
+    'Soak in the Hotsprings', 
+    'Hypnotherapy', 
+    'Mineral Bath'
+  ]
 
   return (
     <div className="App">
